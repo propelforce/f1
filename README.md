@@ -1,7 +1,7 @@
-formula1-ds-proj
+formula1 Data Science Project
 ==============================
 
-Data science model to predict driver standings for f1-2023 races
+Data science model to predict driver standings for 1st half of f1-2023 races
 
 Input data is available in data/raw folder
 
