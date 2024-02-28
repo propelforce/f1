@@ -75,7 +75,10 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> Dev-One
 # Mac OS-specific storage files
 .DS_Store
 
